@@ -12,6 +12,6 @@
 - when compress onle index and package.json files I faced error ``becaues async not defind`` and cant start the code
 - after I add node-moduled with last files I faced ``width not defind`` I think we shoul add the width & hight as Metadete in S3 bu I am tring to add it in a many ways but still not working.
 
-![](1.png)
-![](2.png)
-![](3.png)
+![](assests/1.png)
+![](assests/2.png)
+![](assests/3.png)
